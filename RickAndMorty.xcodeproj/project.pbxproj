@@ -35,6 +35,7 @@
 			membershipExceptions = (
 				/Localized/LaunchScreen.storyboard,
 				Info.plist,
+				Models/Untitled.swift,
 			);
 			target = C6C2128D2C69BD7B00432C19 /* RickAndMorty */;
 		};
